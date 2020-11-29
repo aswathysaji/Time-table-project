@@ -165,6 +165,12 @@ h2{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+    padding:2% 5%;
+    color:#fff;
+}
+
 @media (max-width:540px){
     .heading{
         top: 10%;
